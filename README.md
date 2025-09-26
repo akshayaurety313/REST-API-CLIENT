@@ -70,3 +70,14 @@ A REST API Client has applications in many domains:
 5. **Microservices Architecture** – Communication between different services using REST APIs.
 6. **IoT Systems** – Devices sending data to cloud servers via RESTful services.
 
+
+
+output:
+<img width="768" height="431" alt="Image" src="https://github.com/user-attachments/assets/9fe35e65-6a26-40b1-bbbf-59fec3769fb8" />
+
+<img width="1024" height="575" alt="Image" src="https://github.com/user-attachments/assets/f055b8c1-d119-4074-8d04-4bb68edab348" />
+
+<img width="1024" height="575" alt="Image" src="https://github.com/user-attachments/assets/0fa85735-9bdc-4387-acf0-8f09b82eec99" />
+
+
+<img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/70efb67f-0c82-490b-b9bf-38c86dfaa2b0" />
